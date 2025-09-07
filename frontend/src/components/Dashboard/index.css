@@ -1,0 +1,26 @@
+.dashboard-container {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-heading {
+    color: #000000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.logout-btn {
+    background-color: rgb(57, 57, 241);
+    color: #ffffff;
+    padding: 8px 18px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+
+}
